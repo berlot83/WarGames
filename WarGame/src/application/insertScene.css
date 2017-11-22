@@ -1,0 +1,8 @@
+
+.layout {
+	-fx-background-image: url("../img/falcons.jpg");
+}
+
+.weaponsLayout{
+	-fx-background-image: url("../img/missil.jpg");
+}
